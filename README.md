@@ -7,9 +7,9 @@ An Open Source Telegram Rename Bot With Permanent Thumbnail Support Also Have Th
 
 
 ### You can tap the Deploy To Heroku button below to deploy straight to Heroku!
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kaviya-admin/FileRenameBot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kaviya-admin/FileRenameBot)
 
-For Queries and support, check [Telegram ](https://telegram.dog/Mai_bOTs)
+For Queries and support, check [Tech Wizard Entertainment ](https://t.me/Tech_Wizard_Ent)
 
 ## Credits, and Thanks to Beloved Developers ;
 
